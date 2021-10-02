@@ -5,10 +5,10 @@
 Hi, I'm I Nyoman Jyotisa. I live in Gianyar, Bali, Indonesia.
 
 ### About me
-  - 🔭 I’m currently study in Informastion Technology, Udayana University
-  - 🌱 I’m currently learning about front-end web technology
-  - 💕 Using Laravel, MySQL, JQuery, Bootstrap every day
-  - 📫 You can reach me at <a href="mailto:jyotisa1616@gmail.com">jyotisa1616@gmail.com</a>
+  - Currently study in Informastion Technology, Udayana University
+  - Currently learning about front-end web technology
+  - Using Laravel, MySQL, JQuery, Bootstrap every day
+  - Reach me at <a href="mailto:jyotisa1616@gmail.com">jyotisa1616@gmail.com</a>
 
 
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
