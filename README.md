@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyomanjyotisa&label=Profile%20views&color=0e75b6&style=flat" alt="nyomanjyotisa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyomanjyotisa" alt="nyomanjyotisa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyomanjyotisa&theme=onedark" alt="nyomanjyotisa" /></a> </p>
 
 - 📫 How to reach me **jyotisainyoman@gmail.com**
 
